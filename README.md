@@ -25,5 +25,5 @@ This project helped me understand how to use JavaScript for DOM manipulation, ev
 - Improve skills in CSS layout and image presentation
 
 ### Live Demo :rocket: 
-Check out the project deployed on GitHub Pages: 
+Check out the project deployed on [GitHub Pages](https://nicolelucas03.github.io/image-gallery/) 
 
